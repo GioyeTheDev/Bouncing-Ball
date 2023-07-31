@@ -1,5 +1,8 @@
 # Bouncing-Ball
 A Great Game for Game Scratcher (CES Series)
+
+More Information (Read Please if you are showing this to a public or reposting this)
+
 ## Is The License Valid?
 Only If You Want to repost this. Youtubers (Included Prydev, Endermanch and Flytech Videos) can ignore the license and repost this with no problem.
 ## Can i make a video about this?
